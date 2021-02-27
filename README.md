@@ -7,3 +7,5 @@
 感谢 [js-cookie](https://github.com/js-cookie/js-cookie), [Cloudflare](https://www.cloudflare.com/), [Figma](https://www.figma.com), [Google Font](https://fonts.google.com/).
 
 PS. 代码很丑不规范，抛砖引玉。
+
+![screen](./screenshot.png)
