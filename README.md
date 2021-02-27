@@ -4,7 +4,7 @@
 
 部署时将相应网址替换成你自己的网址。
 
-Cloudflare Workers 设置
+Cloudflare Workers 设置  
 http://bwh.unwall.in/*      http_to_https  
 https://bwh.unwall.in       main  
 https://bwh.unwall.in/v1/*  bwh_api_proxy  
